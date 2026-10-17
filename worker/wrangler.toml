@@ -1,0 +1,9 @@
+name = "polyphonic-mandate-worker"
+main = "worker/worker.js"
+
+# Optional: account id and route are set when you publish.
+# account_id = ""
+# workers_dev = true
+
+[vars]
+# No secrets here — use `wrangler secret put OPENAI_API_KEY` to add your OpenAI key.
