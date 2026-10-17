@@ -1,0 +1,2 @@
+# This file prevents GitHub Pages from processing the site with Jekyll.
+# Presence of this file ensures static files (like index.html) are served as-is.
