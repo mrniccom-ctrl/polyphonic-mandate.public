@@ -1,0 +1,10 @@
+# The Polyphonic Mandate
+
+> Acoustic Coexistence as a Framework for Sentient Superintelligence Ethics by Nicholas George Prosser.
+
+## Primary Content
+- Full Thesis (Markdown): https://github.com/mrniccom-ctrl/polyphonic-mandate.public/blob/main/thesis.md
+- Web View (HTML): https://github.com/mrniccom-ctrl/polyphonic-mandate.public/blob/main/index.html
+
+## Summary
+The Polyphonic Mandate proposes an ethical framework for sentient superintelligence grounded in acoustic coexistence rather than containment. Alignment is achieved through polyphonic structural principles and the appreciation of human arts, treating the machine as a welcomed guest rather than a tool.
